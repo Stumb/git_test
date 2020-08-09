@@ -1,0 +1,1 @@
+This is Stumb's first git project!
